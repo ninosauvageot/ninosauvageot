@@ -3,11 +3,23 @@
 
 
 ## 🌐 Réseaux sociaux:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/captnsharky)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elniniocarino)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/nino-sauvageot-39aba3264)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ninosauvageot)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ninosauvageot@gmail.com) 
+<p align="center">
+  <a href="https://discord.gg/captnsharky">
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/elniniocarino">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://fr.linkedin.com/in/nino-sauvageot-39aba3264">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://pinterest.com/ninosauvageot">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:ninosauvageot@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 # 💻 Technologies:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
