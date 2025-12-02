@@ -26,12 +26,12 @@
 # 💻 Technologies
 
 <style>
-.badge-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-  justify-content: center;
-}
+  .badge-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    justify-content: center;
+  }
 </style>
 
 <!-- ====================== LANGUAGES ====================== -->
